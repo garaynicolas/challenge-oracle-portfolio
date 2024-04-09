@@ -1,0 +1,40 @@
+.btn {
+    border: none; 
+    color: white; 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+  }
+
+.experiencia__botao--repo {background-color: #007bff;} 
+.experiencia__botao--repo:hover {background: #0d4d92;}
+.experience__botao--demo {background-color: #007bff;} 
+.experience__botao--demo:hover {background: #0d4d92;}
+
+
+.formcontato__input,
+.formcontato__textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.formcontato__textarea {
+    resize: none;
+}
+
+.formcontato__botao {
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.formcontato__botao:hover {
+    background-color: #0d4d92;
+}
