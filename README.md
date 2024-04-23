@@ -11,19 +11,6 @@ Este es el 1er proyecto que forma parte de la Formación Front End de la Platafo
   <a href="#memo-licença">Licencia</a>
 </p>
 
-
-<p align="center">
-  <img alt="Licencia" src="https://img.shields.io/static/v1?label=licencia&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-<div align="center">
-  <a target="_blank" href="https://robertojunnior.github.io/alura-portfolio">
-  </a>
-</div>
-
-<br>
 <br>
 
 <br>
