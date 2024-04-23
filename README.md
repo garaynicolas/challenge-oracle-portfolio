@@ -20,7 +20,6 @@ Este es el 1er proyecto que forma parte de la Formación Front End de la Platafo
 
 <div align="center">
   <a target="_blank" href="https://robertojunnior.github.io/alura-portfolio">
-  <img width="90%" src="./assets/mockup-entrega-github-personalizado.png" alt="portfolio-alura">
   </a>
 </div>
 
@@ -45,16 +44,10 @@ Mi intención al compartirlo es proporcionar un formato simple, receptivo y opti
 ## 🔖 Diseño
 Este proyecto de FIGMA fue desarrollado por ALURA.<br>
 
-## :memo: Licencia
-
-Este proyecto está bajo la licencia MIT.
-<br>
-<p>Para obtener la imagen SVG de la pantalla inicial del proyecto, simplemente accede al siguiente enlace: <a href="https://storyset.com/business">Ilustraciones de negocios por Storyset</a>
-<br> La imagen es gratuita con atribución.
 
 ---
 
-Hecho ❤️‍ por Roberto Junior 😁:wave: 
+Hecho ❤️‍ por Garay Nicolas 😁:wave: 
 <br>🧑‍🚀[¡Suscríbete al canal de YouTube de Alura!](https://www.youtube.com/@Alura)
 
 <h4> ¡Gracias por visitar mi Git y si llegaste hasta aquí, dale un "SEGUIR" que yo haré lo mismo, tal vez podamos colaborar en algún proyecto juntos?
