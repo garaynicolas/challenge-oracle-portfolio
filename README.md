@@ -27,7 +27,7 @@ Este es el 1er proyecto que forma parte de la Formación Front End de la Platafo
 <br>
 
 <br>
-🧑‍🚀 La idea de este proyecto fue proporcionada en el curso de formación Front End "Desde cero: Html, Css para proyectos web", que consta de 6 módulos y un total de 51 horas presentado por Guilherme Lima, Rafaella Ballerini y Monica Hillman ❤️‍🔥.
+🧑‍🚀 La idea de este proyecto fue proporcionada en el curso de formación Front End "Desde cero: Html, Css para proyectos web"
 
 ## 🚀 Tecnologías
 
@@ -35,6 +35,7 @@ Este proyecto está siendo desarrollado con las siguientes tecnologías:
 
 - HTML
 - CSS
+- JS
 - Figma
 - Git y GitHub
 
